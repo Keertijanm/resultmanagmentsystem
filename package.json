@@ -1,0 +1,28 @@
+{
+  "name": "resultmanagmentsystem",
+  "version": "1.0.0",
+  "description": "Task-5 Result Management system (Let'sGrowMore)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keertijanm/resultmanagmentsystem.git"
+  },
+  "keywords": [],
+  "author": "Keerti Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keertijanm/resultmanagmentsystem/issues"
+  },
+  "homepage": "https://github.com/Keertijanm/resultmanagmentsystem#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^6.6.1"
+  }
+}
